@@ -1,8 +1,11 @@
 h1 {
 	color: #874a8d;
 }
-h2 {
-	color: #874a8d;
+.h2 {
+
+	margin-top:5px ;
+	text-align: center;
+	color: #fff;
 }
 body, html {
 	margin: 0;

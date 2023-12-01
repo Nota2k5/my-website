@@ -1,6 +1,9 @@
 h1 {
 	color: #874a8d;
 }
+h2 {
+	color: #874a8d;
+}
 body, html {
 	margin: 0;
 	padding: 0;
@@ -26,6 +29,16 @@ header > img {
 	box-shadow: #00fff3 0px 2px 8px 0px;
 }
 header > h1 {
+	display: inline-block;
+	font-size: 1.2em;
+	font-weight: bold;
+	border-radius: 1em;
+	background-color: #000 ;
+	color: #fff;
+	padding: 0.3em 0.6em;
+	border: 2px solid #fffa;
+}
+header > h2 {
 	display: inline-block;
 	font-size: 1.2em;
 	font-weight: bold;
